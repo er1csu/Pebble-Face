@@ -1,0 +1,35 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ekeen4@gmail.com",
+    "longName": "ImprovedWatchFace",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/watch_design",
+                "name": "IMAGE_WATCH_DESIGN",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/example_font",
+                "name": "PERFECT_DOS_VGA_24",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "IWF",
+    "targetPlatforms": [
+        "aplite"
+    ],
+    "uuid": "1c168116-195c-4d82-b1ee-caaaeba7feea",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
